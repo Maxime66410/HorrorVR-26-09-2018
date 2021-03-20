@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 3bf613cef4306724db08152c9c016d2b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kake_e_Piatto
+    100004: Sottopiatto_Baked002
+    100006: Sottopiatto_Baked003
+    100008: Sottopiatto_Baked004
+    100010: Sottopiatto_Baked01
+    100012: TVUnik_Baked01
+    400000: //RootNode
+    400002: Kake_e_Piatto
+    400004: Sottopiatto_Baked002
+    400006: Sottopiatto_Baked003
+    400008: Sottopiatto_Baked004
+    400010: Sottopiatto_Baked01
+    400012: TVUnik_Baked01
+    2100000: Kake_e_PiattoMat
+    2100002: Sottopiatto_Baked002Mat
+    2100004: Sottopiatto_Baked003Mat
+    2100006: Sottopiatto_Baked004Mat
+    2100008: Sottopiatto_Baked01Mat
+    2100010: TVUnik_Baked01Mat
+    2300000: Kake_e_Piatto
+    2300002: Sottopiatto_Baked002
+    2300004: Sottopiatto_Baked003
+    2300006: Sottopiatto_Baked004
+    2300008: Sottopiatto_Baked01
+    2300010: TVUnik_Baked01
+    3300000: Kake_e_Piatto
+    3300002: Sottopiatto_Baked002
+    3300004: Sottopiatto_Baked003
+    3300006: Sottopiatto_Baked004
+    3300008: Sottopiatto_Baked01
+    3300010: TVUnik_Baked01
+    4300000: Kake_e_Piatto
+    4300002: Sottopiatto_Baked002
+    4300004: Sottopiatto_Baked003
+    4300006: Sottopiatto_Baked004
+    4300008: Sottopiatto_Baked01
+    4300010: TVUnik_Baked01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
