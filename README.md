@@ -5,4 +5,6 @@ This game is so old that I no longer support the game so I am posting the work d
 You can resume the project without problems.
 
 
+# Unity version 2018.2.8f1
+
 - FurranyStudio
